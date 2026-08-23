@@ -1,6 +1,6 @@
 {
   "updateKey": "Subha",
-  "forceUpdate": false,
-  "expired": false,
+  "forceUpdate": true,
+  "expired": true,
   "contactUrl": "https://t.me/EliyaAdmin"
 }
